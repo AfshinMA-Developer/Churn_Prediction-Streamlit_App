@@ -14,11 +14,9 @@ loaded_preprocessor = joblib.load(preprocessor_path)
 
 model_names = [
     'Ada Boost Classifier',
-    'Extra Trees Classifier',
     'Gradient Boosting Classifier',
     'LGBM Classifier', 
     'LogisticRegression',
-    'RandomForestClassifier'
     'XGBoost Classifier', 
 ]
 model_paths = {name: os.path.join(model_dir, f"{name.replace(' ', '')}.joblib") for name in model_names}
