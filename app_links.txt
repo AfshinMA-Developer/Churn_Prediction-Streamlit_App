@@ -1,0 +1,7 @@
+Github:
+https://github.com/AfshinMA-Developer/Churn_Prediction-Streamlit_App.git
+Huggingface:
+https://huggingface.co/spaces/AfshinMA/Churn_Prediction_Gradio-App
+https://huggingface.co/spaces/AfshinMA/Churn_Prediction_Streamlit-App
+Streamlit:
+https://churnprediction-appappgit-3f79yacqmtvz2r3lcsd5rw.streamlit.app/
